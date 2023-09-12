@@ -1,0 +1,29 @@
+{
+    "PlayGame": {
+        "checkpoints": [
+            {
+                "steps": 21656,
+                "file_path": "results\\GreatTest5\\PlayGame\\PlayGame-21656.onnx",
+                "reward": null,
+                "creation_time": 1692743126.5960083,
+                "auxillary_file_paths": [
+                    "results\\GreatTest5\\PlayGame\\PlayGame-21656.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 21656,
+            "file_path": "results\\GreatTest5\\PlayGame.onnx",
+            "reward": null,
+            "creation_time": 1692743126.5960083,
+            "auxillary_file_paths": [
+                "results\\GreatTest5\\PlayGame\\PlayGame-21656.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}

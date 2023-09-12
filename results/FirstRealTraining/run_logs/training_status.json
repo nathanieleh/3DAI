@@ -1,0 +1,29 @@
+{
+    "PlayGame": {
+        "checkpoints": [
+            {
+                "steps": 101613,
+                "file_path": "results\\FirstRealTraining\\PlayGame\\PlayGame-101613.onnx",
+                "reward": null,
+                "creation_time": 1692743583.3110743,
+                "auxillary_file_paths": [
+                    "results\\FirstRealTraining\\PlayGame\\PlayGame-101613.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 101613,
+            "file_path": "results\\FirstRealTraining\\PlayGame.onnx",
+            "reward": null,
+            "creation_time": 1692743583.3110743,
+            "auxillary_file_paths": [
+                "results\\FirstRealTraining\\PlayGame\\PlayGame-101613.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}
